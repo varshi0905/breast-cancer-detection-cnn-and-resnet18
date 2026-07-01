@@ -102,7 +102,7 @@ To address dataset imbalance (~3:1 Healthy vs Cancer), weighted binary cross-ent
 ## CNN Results
 
 <p align="center">
-<img src="cnn_results_breast_cancer.png" width="1000">
+<img src="images/cnn_results_breast_cancer.png" width="1000">
 </p>
 
 The baseline CNN achieved stable convergence while providing a benchmark for comparison with deeper architectures.
@@ -120,7 +120,7 @@ Evaluation includes:
 ## ResNet-18 Results
 
 <p align="center">
-<img src="resultsresnet18_results.png" width="1000">
+<img src="images/resultsresnet18_results.png" width="1000">
 </p>
 
 The custom ResNet-18 demonstrated:
