@@ -211,7 +211,7 @@ The notebook includes:
 The trained ResNet-18 model has been deployed as a production-ready web application using FastAPI, Docker, and Render.
 
 ➡️ Deployment Repository:
-**https://github.com/varshi0905/breast_cancer_api**
+**https://github.com/varshi0905/breast_cancer_detection**
 
 ➡️ Live Demo:
 **https://breast-cancer-detection-61e3.onrender.com**
